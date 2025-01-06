@@ -1,0 +1,58 @@
+{
+  "build": "pyhd3eb1b0_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [],
+  "depends": [
+    "python >=3.5"
+  ],
+  "extracted_package_dir": "E:\\SOFTWARE\\ANACONDA\\pkgs\\sphinxcontrib-jsmath-1.0.1-pyhd3eb1b0_0",
+  "files": [
+    "Lib/site-packages/sphinxcontrib/jsmath/__init__.py",
+    "Lib/site-packages/sphinxcontrib/jsmath/version.py",
+    "Lib/site-packages/sphinxcontrib_jsmath-1.0.1-py3.9-nspkg.pth",
+    "Lib/site-packages/sphinxcontrib_jsmath-1.0.1.dist-info/INSTALLER",
+    "Lib/site-packages/sphinxcontrib_jsmath-1.0.1.dist-info/LICENSE",
+    "Lib/site-packages/sphinxcontrib_jsmath-1.0.1.dist-info/METADATA",
+    "Lib/site-packages/sphinxcontrib_jsmath-1.0.1.dist-info/RECORD",
+    "Lib/site-packages/sphinxcontrib_jsmath-1.0.1.dist-info/REQUESTED",
+    "Lib/site-packages/sphinxcontrib_jsmath-1.0.1.dist-info/WHEEL",
+    "Lib/site-packages/sphinxcontrib_jsmath-1.0.1.dist-info/direct_url.json",
+    "Lib/site-packages/sphinxcontrib_jsmath-1.0.1.dist-info/namespace_packages.txt",
+    "Lib/site-packages/sphinxcontrib_jsmath-1.0.1.dist-info/top_level.txt",
+    ".nonadmin",
+    "Lib/site-packages/sphinxcontrib/jsmath/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/sphinxcontrib/jsmath/__pycache__/version.cpython-312.pyc"
+  ],
+  "fn": "sphinxcontrib-jsmath-1.0.1-pyhd3eb1b0_0.tar.bz2",
+  "license": "BSD-2-Clause",
+  "link": {
+    "source": "E:\\SOFTWARE\\ANACONDA\\pkgs\\sphinxcontrib-jsmath-1.0.1-pyhd3eb1b0_0",
+    "type": 1
+  },
+  "md5": "e43f8de7d6a717935ab220a0c957771d",
+  "name": "sphinxcontrib-jsmath",
+  "noarch": "python",
+  "package_tarball_full_path": "E:\\SOFTWARE\\ANACONDA\\pkgs\\sphinxcontrib-jsmath-1.0.1-pyhd3eb1b0_0.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/sphinxcontrib/jsmath/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/sphinxcontrib/jsmath/__pycache__/version.cpython-312.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/noarch::sphinxcontrib-jsmath==1.0.1=pyhd3eb1b0_0[md5=e43f8de7d6a717935ab220a0c957771d]",
+  "sha256": "20c858fa8f7f9cda1eb9bb026d045f4eec29e5ba5f360affcb373931a62e31c8",
+  "size": 8217,
+  "subdir": "noarch",
+  "timestamp": 1611920948000,
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/sphinxcontrib-jsmath-1.0.1-pyhd3eb1b0_0.tar.bz2",
+  "version": "1.0.1"
+}
